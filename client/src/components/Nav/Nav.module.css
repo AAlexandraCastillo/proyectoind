@@ -1,0 +1,12 @@
+.container {
+    width:100;
+    background-color:rgba(9, 226, 172, 0.827);
+    padding: 15px 0;
+    box-shadow: 0 4px 4px 0 rgba(18, 205, 83, 0.997);
+    display:flex;
+    justify-content:flex-end;
+    background-image: url(https://i.pinimg.com/736x/1e/15/3e/1e153e18d0e66bf912d094bc807f2715--rick-y-morty-dibujos-rick-and-morty-wallpaper.jpg);
+    }
+    button {
+      margin-right: 10px;
+    }
